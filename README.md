@@ -62,11 +62,11 @@ Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Baker
 "BalancePercent_per_Order" : 0.5, -> Wallet percentage size of a position.  
 "Max_Percent_in_Coin" : 1.5, -> The maximum Wallet percentage size of a position on a trading pair.  
 "leverage" : 3,-> Set Your Leverage!  
-#### Discord  
+### Discord  
 You want to receive notifications about achieved stop loss, no problem, activate it and add your Discord webhook URL.  
 "discord" : true,  
 "discord_channel_webhook": "https://discord.com/api/webhooks/7952906218/qOc_NnbAywZecawB0",  
-#### Interval  
+
   
 ## Optional
 Install [Nodejs](https://nodejs.org/en/)  
