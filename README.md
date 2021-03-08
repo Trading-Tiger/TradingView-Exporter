@@ -47,18 +47,18 @@ If the tokens have a price, the amount will be adjusted (less).
 }
 ```
 ## Config
-"IP" : "0.0.0.0", -> Server IP. (0.0.0.0 Automatically sets its IP) Find your IP with Ipconfig or ifconfig!
+"IP" : "0.0.0.0", -> Server IP. (0.0.0.0 Automatically sets its IP) Find your IP with Ipconfig or ifconfig!  
 "PORT" : 80, Port for receiving, 80 is recommended.  
 "whitelistkey" : "3412-Passwd", -> Your security key, only messages with the key will be executed.  
 "trade_on_exchange": true, -> Execute Signals ?  
-#### Api Keys
+### Api Keys
 Never give your API Key authorization to withdrawal, make sure that you enable trading and futures. 
-#### coins
+### coins
 "coins" : ["BTCUSDT", "XRPUSDT" , "ADAUSDT" ], -> Pairs to Trade on Binance Future.  
 You can find a complete COIN list [HERE](https://github.com/Trading-Tiger/Supported_Trading_Pairs/blob/main/Binance_Future_Pairs.json).
-#### bsc_Secret-Key
+### bsc_Secret-Key
 Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169) 
-#### Position calculation
+### Position calculation
 "BalancePercent_per_Order" : 0.5, -> Wallet percentage size of a position.  
 "Max_Percent_in_Coin" : 1.5, -> The maximum Wallet percentage size of a position on a trading pair.  
 "leverage" : 3,-> Set Your Leverage!  
