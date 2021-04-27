@@ -28,7 +28,7 @@ Create a Binance-Smart-Chain address from which you have the private key.
 [Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
 You need Max 150 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
-[![bakeryswap](https://trading-tigers.com/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
+[![bakeryswap](https://trading-tigers.com/old_website/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/TradingView-Exporter/releases/)  
 
