@@ -1,5 +1,5 @@
 # :rocket: TradingView Exporter :rocket:
-![alt text](https://trading-tigers.com/img/Tradingview-Exporter.png)
+![alt text](https://trading-tigers.com/old_website/img/ms-icon-310x310.png)
 ##### Here comes the TradingView Exporter
 
 Trading-Tigers TradingView Export is able to react and execute an Webhook Signal on Binance Futures! High speed!  
@@ -21,7 +21,7 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 comming soon
 ## Enter our Community
 [![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
-[![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
+[![TELEGRAM](https://trading-tigers.com/old_website/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
