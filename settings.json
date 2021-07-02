@@ -1,0 +1,19 @@
+{   
+    "whitelist" : "INPUTP",
+    "IP" : "0.0.0.0",
+    "PORT" : 90,
+    "exchange" : "binance",
+    "market":"futures",
+    "trade_on_exchange": true, 
+    "leverage" : 5,
+    "wallet_percent_per_order": 1,
+    "maxPercentPosition" : 3,
+
+    "api-key" : "uiRERpwLirfjyvyALLF0WrEr",
+    "api-secret" : "UifJ0Asow7LYMhDccRqZf",
+
+    "coins" : ["EOSUSDT","BTCUSDT" ],
+
+    "discord" : false,
+    "discord_channel_webhook": "https://discord.com/api/webhooks/7703001......."
+}
