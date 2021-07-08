@@ -17,14 +17,9 @@ Little to no trading experience or programming knowledge required.
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
 
-## Preview
-comming soon
-## Enter our Community
-[![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
-
-
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/TradingView-Exporter/releases/)  
+
 
 ## Settings  
 #### Main Settings
