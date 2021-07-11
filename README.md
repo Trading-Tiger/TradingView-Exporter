@@ -17,6 +17,20 @@ Little to no trading experience or programming knowledge required.
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
 
+# Setup & install:
+* [Download & Install Python3+](https://www.python.org/downloads/)
+* If you don't know Python then please have a look at the [RELEASES](https://github.com/Trading-Tiger/TradingView-Exporter/releases).
+* if Python3 install complete open cmd/bash in main.py folder and type:
+  ```shell
+     python -m pip install -r requirements.txt
+   ```
+* if python moduls download & install completely
+* run with:
+  ```shell
+     python main.py 
+   ```
+
+
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/TradingView-Exporter/releases/)  
 
