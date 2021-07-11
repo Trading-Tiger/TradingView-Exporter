@@ -1,7 +1,7 @@
 {   
     "whitelist" : "INPUTP",
     "IP" : "0.0.0.0",
-    "PORT" : 90,
+    "PORT" : 80,
     "exchange" : "binance",
     "market":"futures",
     "trade_on_exchange": true, 
