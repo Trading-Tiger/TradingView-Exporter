@@ -1,0 +1,4 @@
+flask
+waitress
+ccxt
+discord-webhook
